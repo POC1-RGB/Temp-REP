@@ -1,0 +1,24 @@
+{
+    "AuthenticationUrl": "http://assiduidade.cm-sintra.pt/AuthenticationWebAPI/api/",
+    "SSOAuthUrl": "http://assiduidade.cm-sintra.pt/SSOWebAPI/api/",
+    "DashboardUrl": "https://localhost-server/ExpertDashboardWebAPI/api/",    
+    "Authentication": "Authentication/",
+    "Employee": "Employee/",
+    "Preferences": "Preferences/",
+    "RecoverPassword":"RecoverPassword/",
+    "SystemIndex": "0",
+    "ExpertVersion": "2.41.61",
+    "Language": "pt-PT",
+    "ServerName": "CMS-AP-SRV08.cm-sintra.local",
+    "AppTitle":"Portal do Trabalhador",
+    "ManagerAppTitle":"Portal de Dirigente",
+    "EmployeeSelfService": {
+        "RedirectAfterLogin": "http://assiduidade.cm-sintra.pt/EmployeeSelfService"
+    },
+    "ManagerSelfService": {
+        "RedirectAfterLogin": "http://assiduidade.cm-sintra.pt/ManagerSelfService"
+    },
+    "AdministrationPortal": {
+        "RedirectAfterLogin": "http://assiduidade.cm-sintra.pt/AccessControl"
+    }
+}
